@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-german
 Epoch:		1
 Version:	20120224
-Release:	5
+Release:	6
 Summary:	German documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
